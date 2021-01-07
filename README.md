@@ -1,4 +1,4 @@
-# mercantile-express-game
+# Mercantile Express Game
 Computer Graphic Final Project Binus University International
 
 
@@ -15,3 +15,4 @@ https://playcanv.as/p/yvRSPx4L/
 
 Launch Debug Game:
 https://launch.playcanvas.com/1022475?debug=true
+
